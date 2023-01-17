@@ -1,0 +1,18 @@
+.renk {
+    background-color: #E9ECEF;
+}
+
+.sol-alt {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+}
+
+.son{
+    position: relative;
+    left: -100px;
+    margin-top: 50px;
+    color:32cd67 ;
+    text-align:right;
+}
+
